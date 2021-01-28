@@ -34,11 +34,11 @@ Accept-Language: fr
 Accept:application/json
 
 HTTP header response:
-date: Thu, 28 Jan 2021 19:56:38 GMT
-content-type: application/json
-server: cloudflare
-cf-ray: 618d4723dd11d34a-LAX
-content-encoding: br
+date: 
+content-type: 
+server: 
+cf-ray: 
+content-encoding:
 
 
 ### 9 What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
